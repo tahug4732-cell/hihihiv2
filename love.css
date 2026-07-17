@@ -172,10 +172,13 @@ body{
 }
 .target__label{
   font-size:1.25rem;
-  max-width: 300px;
+  max-width: 5000px;
+  width: 258px;
   letter-spacing:.01em;
   color:var(--purple);
-  display:flex; align-items:center; gap:.2em;
+  display:flex; 
+  align-items:center; 
+  gap:.2em;
 }
 
 .envelope{
